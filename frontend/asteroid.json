@@ -1,0 +1,29 @@
+{
+  "asteroids": [
+    {
+      "name": "16 Psyche",
+      "image": "https://cdn.mos.cms.futurecdn.net/UPXTu4zhWN5k7HfKL4P9bP.jpg",
+      "iron_content": "70%",
+      "gold_content": "20%",
+      "copper_content": "10%",
+      "nickel_content": "30%"
+    },
+    {
+      "name": "433 Eros",
+      "image": "https://media.sketchfab.com/models/4ddaa7d56a1a4c608694303a816804bc/thumbnails/790dc39c7ce6406caf5e72b97132a8dc/1024.jpeg",
+      "iron_content": "65%",
+      "gold_content": "15%",
+      "copper_content": "5%",
+      "nickel_content": "30%"
+    },
+     {
+      "name": "Bennu",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/internal_resources/5264/Asteroid_Bennu-1.jpeg?w=800&h=600&fit=clip&crop=faces%2Cfocalpoint",
+      "iron_content": "62%",
+      "gold_content": "10%",
+      "copper_content": "2%",
+      "nickel_content": "30%"
+    }
+    
+  ]
+}

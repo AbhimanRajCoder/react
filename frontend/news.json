@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": { "id": null, "name": "Space.com" },
+      "author": "John Carter",
+      "title": "NASA plans mission to study asteroid Psyche",
+      "description": "NASA is preparing to launch its Psyche mission to explore the metal-rich asteroid Psyche 16, which could reveal secrets of planetary formation.",
+      "url": "https://www.space.com/nasa-psyche-asteroid-mission",
+      "urlToImage": "https://example.com/images/psyche.jpg",
+      "publishedAt": "2025-08-15T10:00:00Z",
+      "content": "The Psyche mission is set to launch this fall and will study the unique metal-rich asteroid orbiting between Mars and Jupiter..."
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "Sarah Johnson",
+      "title": "Asteroid passes safely by Earth",
+      "description": "A 300-meter-wide asteroid made a close but safe approach to Earth on Thursday, according to NASA's Planetary Defense Coordination Office.",
+      "url": "https://www.bbc.com/news/asteroid-earth-pass",
+      "urlToImage": "https://example.com/images/asteroid_earth.jpg",
+      "publishedAt": "2025-08-14T15:30:00Z",
+      "content": "The asteroid came within 3.5 million kilometers of Earth, posing no threat but giving scientists a valuable observation opportunity..."
+    },
+    {
+      "source": { "id": null, "name": "CNN" },
+      "author": "Michael Lee",
+      "title": "Mining asteroids: The future of space economy",
+      "description": "Private companies are racing to develop technology to mine asteroids for valuable metals such as platinum, nickel, and gold.",
+      "url": "https://www.cnn.com/space/asteroid-mining",
+      "urlToImage": "https://example.com/images/mining.jpg",
+      "publishedAt": "2025-08-12T08:45:00Z",
+      "content": "Asteroid mining could become a trillion-dollar industry, but challenges in technology and international law remain..."
+    },
+    {
+      "source": { "id": null, "name": "Scientific American" },
+      "author": "Dr. Emily Foster",
+      "title": "How asteroids shaped Earth's history",
+      "description": "From the extinction of the dinosaurs to the delivery of water, asteroids have played a crucial role in shaping our planet's past.",
+      "url": "https://www.scientificamerican.com/asteroid-earth-history",
+      "urlToImage": "https://example.com/images/history.jpg",
+      "publishedAt": "2025-08-10T12:20:00Z",
+      "content": "Asteroids have been both a destructive and constructive force in Earth's history..."
+    },
+    {
+      "source": { "id": null, "name": "National Geographic" },
+      "author": "Laura Smith",
+      "title": "The mysterious origins of near-Earth asteroids",
+      "description": "Scientists are piecing together the history of near-Earth asteroids to understand where they come from and how they evolve.",
+      "url": "https://www.nationalgeographic.com/space/near-earth-asteroids",
+      "urlToImage": "https://example.com/images/near_earth.jpg",
+      "publishedAt": "2025-08-09T09:00:00Z",
+      "content": "Near-Earth asteroids may originate from collisions in the asteroid belt and are gradually pulled into Earth's neighborhood..."
+    }
+  ]
+}

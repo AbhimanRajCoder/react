@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "role": "Frontend Developer",
+    "email": "john@example.com",
+    "skills": ["React", "JavaScript", "CSS"]
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "role": "Backend Developer",
+    "email": "jane@example.com",
+    "skills": ["Node.js", "Express", "MongoDB"]
+  },
+  {
+    "id": 3,
+    "name": "Mark Johnson",
+    "role": "UI/UX Designer",
+    "email": "mark@example.com",
+    "skills": ["Figma", "Adobe XD", "Photoshop"]
+  }
+]
